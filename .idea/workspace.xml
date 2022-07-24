@@ -1,13 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4a2d432e-9e17-45cc-a16a-c46bbc7adac7" name="Default Changelist" comment="" />
+    <list default="true" id="4a2d432e-9e17-45cc-a16a-c46bbc7adac7" name="Default Changelist" comment="clear branch">
+      <change afterPath="$PROJECT_DIR$/src/components/album/Album.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/albums/Albums.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/comment/Comment.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/comments/Comments.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/post/Post.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/posts/Posts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/todo/Todo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/todos/Todos.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/user/User.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/users/Users.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2CKhMeRRCDP3YRqbAjt9WRlXeqz" />
@@ -26,7 +55,13 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\okten\untitled\src\components" />
+    </key>
   </component>
   <component name="RunManager" selected="npm.npm start">
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
@@ -51,8 +86,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1658557137500</updated>
-      <workItem from="1658557138639" duration="1606000" />
+      <workItem from="1658557138639" duration="7454000" />
+      <workItem from="1658647802448" duration="140000" />
+      <workItem from="1658647996714" duration="2932000" />
     </task>
+    <task id="LOCAL-00001" summary="clear branch">
+      <created>1658558806537</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1658558806537</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -68,5 +113,10 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="clear branch" />
+    <option name="LAST_COMMIT_MESSAGE" value="clear branch" />
   </component>
 </project>
