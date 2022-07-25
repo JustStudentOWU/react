@@ -1,0 +1,12 @@
+.users {
+    background-color: cadetblue;
+}
+.user {
+    background-color: tomato;
+}
+.user-post {
+    background-color: chartreuse;
+}
+.post-comment {
+    background-color: aqua;
+}

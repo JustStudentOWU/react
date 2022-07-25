@@ -9,9 +9,9 @@ export default function Users() {
         getUsers().then(value => {
             setUsers(value.data)
         })
-    })
+    },[])
     return (
-        <div>
+        <div className={'users'}>
             {
                 users.map(value => <User key ={value.id} item = {value} />)
             }

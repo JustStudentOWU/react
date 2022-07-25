@@ -1,25 +1,26 @@
 import {useState} from "react";
-import {getUser} from "../../sevices/appService";
-import ChosenUser from "../chosenUser/ChosenUser";
+import {getUserByPost} from "../../sevices/appService";
+import UserPosts from "../userPosts/UserPosts";
 
 export default function User({item}) {
-    let [chosenUser, setChosenUser] = useState(null);
+    let [userPosts, setUsersPosts] = useState(null);
     let [toggle, setToggle] = useState(false);
-    let findUser = (id) => {
+
+    let findUserPosts = (id) => {
         setToggle(!toggle)
-        getUser(id).then(value => {
-            setChosenUser(value.data)
+        getUserByPost(id).then(value => {
+            setUsersPosts(value.data)
         })
     }
     return (
-        <div>
+        <div className={'user'}>
             {item.id} - {item.name} <button onClick={() => {
-                findUser(item.id)
-        }}>click</button>
-                <hr />
+                findUserPosts(item.id)
+        }}>Posts</button>
             {
-                chosenUser && toggle && <ChosenUser item={chosenUser}/>
+                userPosts && toggle && <UserPosts userPosts={userPosts}/>
             }
+                <hr />
         </div>
         )
      }

@@ -4,7 +4,11 @@ let axiosInstance = axios.create({
         baseURL: 'https://jsonplaceholder.typicode.com/'
 });
 
+let getPostByComments = (id) => axiosInstance.get('/posts/' +id + '/comments')
+let getUserByPost = (id) => axiosInstance.get('/users/' +id + '/posts')
 let getUsers = () => axiosInstance.get('/users');
-let getUser = (id) =>  axiosInstance('/users/' + id);
 
-export {getUser, getUsers}
+export {getPostByComments,
+        getUserByPost,
+        getUsers,
+}
