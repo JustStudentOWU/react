@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: aqua;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    background: red;
+    margin-bottom: 15px;
+}
+
+.sub-Container {
+    background: silver;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 45px;
+}
+
+.sub-content {
+    background: silver;
+    display: flex;
+    width: 33%;
+    justify-content: center;
+}
+
+a {
+    background-color: silver;
+}
+
+.header-link {
+    background-color: red;
+}
+.text-container {
+    background-color: cornflowerblue;
+}
