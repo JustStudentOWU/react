@@ -1,11 +1,13 @@
 import {useForm} from "react-hook-form";
 import {createTodo} from "../../services/todo.services";
 
-export default function todo() {
-    const {register,handleSubmit} = useForm({
-        title: '',
-        completed: '',
-    })
+export default function Todo() {
+    const {register, handleSubmit} = useForm({
+        defaultValues: {
+            title: '',
+            completed: '',
+        }
+    });
     const registerTodo = (obj) => {
         return createTodo(obj).then(value => console.log(value))
     }

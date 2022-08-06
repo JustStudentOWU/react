@@ -2,26 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a2d432e-9e17-45cc-a16a-c46bbc7adac7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/album/Album.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/album/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/comment/Comment.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/comment/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/post/Post.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/post/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/todo/Todo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/todo/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/user/User.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/user/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/services/album.services.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/services/comment.services.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/services/post.services.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/services/todo.services.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/services/user.services.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/todo/Todo.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/todo/Todo.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +16,7 @@
         <option value="JavaScript File" />
       </list>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -87,7 +70,16 @@
       <option name="presentableId" value="Default" />
       <updated>1658557137500</updated>
       <workItem from="1658557138639" duration="1606000" />
+      <workItem from="1659807761441" duration="882000" />
     </task>
+    <task id="LOCAL-00001" summary="form">
+      <created>1659315102294</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1659315102294</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,5 +96,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="form" />
+    <option name="LAST_COMMIT_MESSAGE" value="form" />
   </component>
 </project>
