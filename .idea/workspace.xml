@@ -2,28 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a2d432e-9e17-45cc-a16a-c46bbc7adac7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/Comments/Comment.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Comments/Comments.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Posts/Post.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Posts/Posts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Users/User.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Users/Users.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/AboutPage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/CommentsPage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/HomePage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/LayoutPage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/MainLayout.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/PostsPage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/UsersPage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/services/posts.services.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/services/user.services.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Posts/Postdetails.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/PostDetailsPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/comments.services.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Comments/Comment.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Comments/Comment.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Comments/Comments.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Comments/Comments.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Posts/Post.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Posts/Post.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Posts/Posts.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Posts/Posts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Users/User.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Users/User.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/CommentsPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/CommentsPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/LayoutPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/LayoutPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/PostsPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/PostsPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/posts.services.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/posts.services.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +81,16 @@
       <option name="presentableId" value="Default" />
       <updated>1658557137500</updated>
       <workItem from="1658557138639" duration="1606000" />
+      <workItem from="1659856732956" duration="5913000" />
     </task>
+    <task id="LOCAL-00001" summary="part1">
+      <created>1659818601780</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1659818601780</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,5 +107,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="part1" />
+    <option name="LAST_COMMIT_MESSAGE" value="part1" />
   </component>
 </project>

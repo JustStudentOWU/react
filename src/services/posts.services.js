@@ -5,7 +5,9 @@ const axiosInstance = axios.create({
 })
 
 const getPosts = () => axiosInstance.get('/posts').then(value => value.data);
+const getUsersPosts = (id) => axiosInstance.get('/users/' + id + '/posts').then(value => value.data);
 
 export {
-    getPosts
+    getPosts,
+    getUsersPosts
 }
