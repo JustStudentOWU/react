@@ -2,20 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a2d432e-9e17-45cc-a16a-c46bbc7adac7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/Posts/Postdetails.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/PostDetailsPage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/services/comments.services.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Comments/Comment.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Comments/Comment.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Comments/Comments.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Comments/Comments.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Posts/Post.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Posts/Post.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Posts/Posts.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Posts/Posts.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Users/User.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Users/User.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/CommentsPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/CommentsPage.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/LayoutPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/LayoutPage.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/PostsPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/PostsPage.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/services/posts.services.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/posts.services.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +23,9 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedIndex" value="1" />
   </component>
   <component name="ProjectId" id="2CKhMeRRCDP3YRqbAjt9WRlXeqz" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
