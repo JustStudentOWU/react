@@ -1,17 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4a2d432e-9e17-45cc-a16a-c46bbc7adac7" name="Default Changelist" comment="" />
+    <list default="true" id="4a2d432e-9e17-45cc-a16a-c46bbc7adac7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/Header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/comment/Comment.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/comments/Comments.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/post/Post.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/posts/Posts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/user/User.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/users/Users.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constants/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constants/url.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/CommentsPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/MainLayout.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/PostsPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/UsersPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/axios.services.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/comments.services.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/posts.services.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/user.services.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2CKhMeRRCDP3YRqbAjt9WRlXeqz" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -27,6 +65,11 @@
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\okten\untitled\src\components" />
+    </key>
   </component>
   <component name="RunManager" selected="npm.npm start">
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
@@ -52,6 +95,7 @@
       <option name="presentableId" value="Default" />
       <updated>1658557137500</updated>
       <workItem from="1658557138639" duration="1606000" />
+      <workItem from="1661182436124" duration="8070000" />
     </task>
     <servers />
   </component>
@@ -68,5 +112,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
